@@ -1,5 +1,5 @@
 # TGeditor
-这是一个简单的富文本编辑器  
+这是一个简单的富文本编辑器(供execCommand和rang学习使用)  
 
 纯JavaScript，不需担心和其他插件冲突。
 
